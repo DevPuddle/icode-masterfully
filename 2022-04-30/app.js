@@ -10,5 +10,7 @@
 //My attempt at this coding challenge.
 
 function descendingOrder(n){
-    return n.split().sort((a,b) => b - a).join()
+    return n.sort((n) => n - b)
   }
+
+  let n = [3,4,1,8,5]
